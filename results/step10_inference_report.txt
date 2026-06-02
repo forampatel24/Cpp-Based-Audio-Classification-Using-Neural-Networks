@@ -1,0 +1,10 @@
+Step 10 Inference Report
+Input WAV: D:\College\2nd Year\Sem 2\OOP\CP\sample\sample_clap.wav
+Model: D:\College\2nd Year\Sem 2\OOP\CP\models\nn_step8_best_model.txt
+Predicted class index: 0
+Predicted class name: clap
+Class probabilities:
+  clap: 0.669459
+  knock: 0.224997
+  noise: 0.058496
+  silence: 0.047048
